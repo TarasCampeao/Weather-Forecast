@@ -1,5 +1,6 @@
 # Weather Forecast
-https://github.com/TarasCampeao/Weather-Forecast/blob/main/public/project.png
+
+(https://github.com/TarasCampeao/Weather-Forecast/blob/main/public/project.png)
 
 ## Project Setup
 
